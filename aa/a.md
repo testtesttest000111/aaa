@@ -9,7 +9,7 @@ aaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbb
   <tr>
     <td>
       <div> 
-    *Scenario*: User listens to music offline </br> Given I’m an offline user and I’m on the Search page </br> When I fill in  the text I want to look for (that may represent an artist, a song, a lyric) and I click on the button </br> Then I receive the found results that are on my device
+        <b>Scenario</b>: User listens to music offline </br> Given I’m an offline user and I’m on the Search page </br> When I fill in  the text I want to look for (that may represent an artist, a song, a lyric) and I click on the button </br> Then I receive the found results that are on my device
       </div>
     </td>
     <td>
