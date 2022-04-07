@@ -1,7 +1,7 @@
 aaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbb
 aaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbb
 aaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbb
-
+|----------|:-------------:|
 | *Scenario*: User listens to music offline </br> Given I’m an offline user and I’m on the Search page </br> When I fill in  the text I want to look for (that may represent an artist, a song, a lyric) and I click on the button </br> Then I receive the found results that are on my device| As an offline user </br> I want to be able to search to saved songs on my device </br> So that I can be able to listen without connecting to a network |
 | *Scenario*: User listens to music offline </br> Given I’m an offline user and I’m on the Search page </br> When I fill in  the text I want to look for (that may represent an artist, a song, a lyric) and I click on the button </br> Then I receive the found results that are on my device| As an offline user </br> I want to be able to search to saved songs on my device </br> So that I can be able to listen without connecting to a network |
 | *Scenario*: User listens to music offline </br> Given I’m an offline user and I’m on the Search page </br> When I fill in  the text I want to look for (that may represent an artist, a song, a lyric) and I click on the button </br> Then I receive the found results that are on my device| As an offline user </br> I want to be able to search to saved songs on my device </br> So that I can be able to listen without connecting to a network |
